@@ -1,0 +1,13 @@
+{
+  "name": "stryve-js-technical-test",
+  "version": "1.0.0",
+  "description": "This project is a solution to a scheduling problem that allocates tasks to developers based on their skills, available hours, task preferences, task priorities, and dependencies. It aims to optimize workload distribution while satisfying all specified constraints.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node run.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

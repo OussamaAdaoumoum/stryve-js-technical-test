@@ -1,1 +1,0 @@
-# stryve-js-technical-test
